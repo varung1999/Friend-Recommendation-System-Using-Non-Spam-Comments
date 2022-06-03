@@ -1,0 +1,2 @@
+# Friend-Recommendation-System-Using-Non-Spam-Comments
+Most of the e-commerce websites have no option of directly sharing it to friends. When we want to do the same, we try to use another third party application to share the product.  We developed an end-to-end application where we can directly send friend requests. The application also has recommendation feature. The recommendations are made based on the average content similarity index of the comments. By doing this, we can filter out the spam comments that are usually there.
